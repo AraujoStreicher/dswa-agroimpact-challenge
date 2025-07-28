@@ -1,0 +1,27 @@
+generic_name,original_name
+feature1,ENTRADAS (v3)
+feature2,Ammonia e afins
+feature3,Calcário e gesso
+feature4,Emissões pesticidas
+feature5,Energia da biomassa
+feature6,Energia elétrica (kwh)
+feature7,Esterco animal (kg)
+feature8,Esterco verde (kg)
+feature9,"Fungicida, herbicida e pesticida"
+feature10,Macronutrientes
+feature11,Micronutrientes
+feature12,"Ocuppation, total"
+feature13,Seed
+feature14,"Transformation total, to and from"
+feature15,Urea
+target1,"acidification - acidification (incl. fate, average Europe total, A&B)"
+target2,climate change - global warming potential (GWP100)
+target3,ecotoxicity: freshwater - freshwater aquatic ecotoxicity (FAETP inf)
+target4,ecotoxicity: marine - marine aquatic ecotoxicity (MAETP inf)
+target5,ecotoxicity: terrestrial - terrestrial ecotoxicity (TETP inf)
+target6,energy resources: non-renewable - abiotic depletion potential (ADP): fossil fuels
+target7,eutrophication - eutrophication (fate not incl.)
+target8,human toxicity - human toxicity (HTP inf)
+target9,material resources: metals/minerals - abiotic depletion potential (ADP): elements (ultimate reserves)
+target10,ozone depletion - ozone layer depletion (ODP steady state)
+target11,photochemical oxidant formation - photochemical oxidation (high NOx)
